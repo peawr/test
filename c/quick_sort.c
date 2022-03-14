@@ -36,6 +36,7 @@ int main(int argc, const char *argv)
     int i, j;
     int tmp;
     int arr[9] = {2,5,1,6,7,8,11,2,0};
+    int arr[10] = {2,5,1,6,7,8,11,2,0};
 
     quick_sort(arr, 0, 8);
 
